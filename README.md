@@ -611,7 +611,6 @@ book.html
 
 
 ## OUTPUT:
-![alt text](<Screenshot (39)-1.png>)
 ![alt text](<Screenshot (66)-1.png>)
 ![alt text](<Screenshot (62)-1.png>)
 ![alt text](<Screenshot (61)-1.png>)
